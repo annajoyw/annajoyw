@@ -15,23 +15,41 @@ body
 {
     background-color: #ECA4A6;
     height: 500px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
 }
 #section3
 {
     background-color: #807F89;
     height: 500px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
 }
 #section4
 {
     background-color: #99A89E;
     height: 500px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
 }
 #section5
 {
     background-color: #BBC7BA;
     height: 500px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
 }
 .col
 {
     text-align: center;
+}
+
+.card{
+    font-size: medium;
+}
+body{
+
+    background-image: url(https://i.imgur.com/eamuII4.png)
+
+   
 }
