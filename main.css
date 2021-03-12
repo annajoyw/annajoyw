@@ -1,0 +1,37 @@
+body
+{
+   background-color: #ffffff;
+    
+}
+#section1
+{
+    background-color: #F9D5D3;
+    height: 500px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#section2
+{
+    background-color: #ECA4A6;
+    height: 500px;
+}
+#section3
+{
+    background-color: #807F89;
+    height: 500px;
+}
+#section4
+{
+    background-color: #99A89E;
+    height: 500px;
+}
+#section5
+{
+    background-color: #BBC7BA;
+    height: 500px;
+}
+.col
+{
+    text-align: center;
+}
