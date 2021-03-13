@@ -10,6 +10,7 @@ body
     height: 500px;
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
+    border-radius: 25px;
 
 }
 #section2
@@ -19,6 +20,7 @@ body
     height: 500px;
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
+    border-radius: 25px;
 }
 #section3
 {
@@ -26,6 +28,7 @@ body
     height: 500px;
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
+    border-radius: 25px;
 }
 #section4
 {
@@ -33,6 +36,7 @@ body
     height: 500px;
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
+    border-radius: 25px;
 }
 #section5
 {
@@ -40,10 +44,12 @@ body
     height: 500px;
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
+    border-radius: 25px;
 }
 .col
 {
     text-align: center;
+    color: white;
     
 }
 
@@ -64,4 +70,18 @@ body{
 {
     height: 100vh;
 }
-
+#welcomebox{
+    background-color: white;
+    color:black;
+    border-radius: 25px;
+}
+#skills{
+    text-align: left;
+    vertical-align: text-top;
+}
+.hardskills{
+    font-size: small;
+}
+.softskills{
+    font-size: small;
+}
