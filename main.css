@@ -75,13 +75,52 @@ body{
     color:black;
     border-radius: 25px;
 }
-#skills{
-    text-align: left;
+.skillcol{
+    color: white;
+    background-size: contain;
     vertical-align: text-top;
+    font-size: 115%;
+  margin-bottom: 90px;
+  margin-left: 10px;
 }
 .hardskills{
-    font-size: small;
+    font-size: medium;
+    text-align: left;
+    float: left;
 }
 .softskills{
-    font-size: small;
+    font-size: medium;
+    text-align: left;
+    float: right;
 }
+.wrapper{
+    width: 450px;    
+    color: white;
+    margin-bottom: 50px;
+}
+.workhistory{
+    color: white;
+    margin-bottom: 100px;
+    width: 450px;   
+    margin-left: 100px;
+}
+.techprojects{
+    color: white;
+    background-size: contain;
+    font-size: 115%;
+    margin-bottom: 290px;
+    margin-left: 10px;
+    font-size: 115%;
+}
+.slideshow{
+    align-content: center;
+    margin-bottom: 1000px;
+}
+.aboutme{
+    font-size: xx-large;
+    color: white;
+}
+
+
+
+
